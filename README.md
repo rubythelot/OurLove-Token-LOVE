@@ -22,10 +22,15 @@ The contract holds a certain narrative quality.
 Here are some of the attributes of the contract:
 
 1 - 0 initial supply (you start with no tokens), because love is a choice
+
 2 - The token is mintable (you can make new tokens), because love can be created out of nothing
+
 3 - The token has no supply cap (you can make an unlimited amount of tokens), because love is infinite
+
 4 - The token is burnable (you can permanently remove tokens from circulation forever), because love can be self-destructive
+
 5 - The token can be paused (all activities or transactions ceased), because sometimes, love ends.
+
 
 Both parties can mint new tokens as they advance along in the relationship.
 Tokens can be exchanged between partners for deeds in line with the partner's love languages.
